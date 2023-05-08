@@ -115,6 +115,6 @@ $(function() {
  * 🔗 **website:** [ShoifyKingBD](https://shopifykingbd.com)
  * 🪪 **License:** 1 ☕️ = Free forever ($5)
  * ☕️ [Buy me a Coffee:](https://bmc.link/webtowhid)
- * ✅ Your logo at **sponsors** 🎉
+ * ✅ Your logo at [sponsors](https://github.com/shopifykingbd/skb-random-grid-gallery#sponsors) 🎉
  * 🙏 Thanks for your support! 
  
