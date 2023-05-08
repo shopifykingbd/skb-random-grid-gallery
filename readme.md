@@ -4,7 +4,7 @@
 ![SKB-RANDOM-IMAGES-GRID-GALLERY](https://user-images.githubusercontent.com/89340400/236777209-67105aa6-6a7b-44e5-aefc-b5e25ad98ba5.jpg)
 
 ### Sponsors
-| ![shoifykingbd-transparent-logo](https://user-images.githubusercontent.com/89340400/236772293-47a77bbb-b182-451a-a730-c8d8a1c1fb63.png) | ![YOUR LOGO](https://dummyimage.com/360x180/f9d949/000000.jpg&text=++YOUR+LOGO)  |
+| [<img src="https://user-images.githubusercontent.com/89340400/236772293-47a77bbb-b182-451a-a730-c8d8a1c1fb63.png" alt="shopifykingbd">](http://www.shopifykingbd.com/) | [<img src="https://dummyimage.com/360x180/f9d949/000000.jpg&text=++YOUR+LOGO" alt="Your logo">](https://www.buymeacoffee.com/webtowhid) |
 | ----------- | ----------- |
 
 
